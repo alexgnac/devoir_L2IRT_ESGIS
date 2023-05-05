@@ -1,0 +1,12 @@
+6-a)
+Différence
+La commande git pull extrait toutes les modifications du référentiel distant vers notre branche correspondante du référentiel local tandis que git fetch récupère les modifications du
+référentiel distant,puis stocke les modifications dans une branche distincte de notre référentiel local.
+
+b)On utilise la commande git reset.
+
+c)La suppression d'une branche distante nécéssite l'utilisation de la commande git push "depot" à l'aide de l'option --delete.
+
+d)On utilise la commande git-log en précisant le nom du fichier en argument de la commande.
+
+
